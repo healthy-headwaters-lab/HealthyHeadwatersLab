@@ -1,8 +1,9 @@
 # Guidelines for Data Management
 
 ### Data Storage
-* All data should be stored on the Healthy Headwaters Lab OneDrive in the appropriate subfolder within the Data folder. 
-* Back up all of your data regularly. Upload your data to OneDrive as soon as it is collected to avoid a backlog of uncategorized data!
+* All raw and cleaned data should be stored on the Healthy Headwaters Lab OneDrive in the appropriate subfolder within the Data folder. 
+* Data files that you are working on may be stored on your personal computer until they are cleaned up but **make sure** you back up all of your data regularly onto OneDrive. 
+* Upload your data to OneDrive as soon as it is collected to avoid a backlog of uncategorized data!
 
 #### Raw Data
 Raw data should be saved within the Shared HHL OneDrive/Data/Raw data folder and the specific folder for the procedure/equipment used to collect it. For example, data collected from the Fluorometer would be stored in Shared HHL OneDrive/Data/Raw Data/OANL/Fluorometer.   
