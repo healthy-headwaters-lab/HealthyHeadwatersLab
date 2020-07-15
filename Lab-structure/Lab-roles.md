@@ -1,5 +1,5 @@
 # Lab Research Staff Roles
-This file details the roles of research staff within the Healthy Headwaters Lab. Contact information for research staff can be found in the Lab Directory (Shared HHL Dropbox/Lab-Directory.docx).
+This file details the roles of research staff within the Healthy Headwaters Lab. Contact information for research staff can be found in the Lab Directory (GLI - Healthy Headwater Lab - General/Operations/Administration/Lab-Directory.docx).
 
 All research staff:
 * Attend weekly lab meetings
@@ -49,8 +49,14 @@ Katrina Keeshig is the Healthy Headwaters Lab Nindawaabjig Research Coordinator.
 *	Seeks out opportunities to advance the goals of the Indigenous Allyship program 
 
 ### Nindawaabjig Project Coordinator 
-Destiny Soney (*currently on parental leave*) is the Healthy Headwaters Lab Nindawaabjig Project Coordinator. She:
+Destiny Soney is the Healthy Headwaters Lab Nindawaabjig Project Coordinator. She:
 * Assists in the development and coordination of our lab's research with Nindawaabjig (Walpole Island Heritage Centre) and the Walpole Island Land Trust. 
+
+### Storyteller
+Shayenna Nolan is the Healthy Headwaters Lab Storyteller. She:
+* Takes photos and video of lab activities, including field work
+* Writes blogs and social media posts highlighting aspects of the Healthy Headwaters Lab work
+* Manages the the [Healthy Headwaters Lab website](https://www.healthyheadwaterslab.ca/)
 
 ### Senior Agricultural Advisor (consultant)  
 Jim Boak is a consultant, acting as the Senior Agricultural Advisor for the Healthy Headwaters Lab. He:

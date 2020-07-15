@@ -38,7 +38,7 @@ Social media is a type of public outreach, and can be an effective one at that.
 * Make sure content tagged aligns with the Healthy Headwaters Lab mission and follows all of the communications ground rules
 
 #### Healthy Headwaters Blog
-The Healthy Headwaters Blog ([Reflections](https://www.healthyheadwaterslab.ca/blog)) is maintained by Candy. If you have ideas for blog posts - contact Candy. She's always looking for ideas or guest blog writers!
+The Healthy Headwaters Blog ([Reflections](https://www.healthyheadwaterslab.ca/blog)) is maintained by Candy and Shayenna. If you have ideas for blog posts - contact Shayenna. They're always looking for ideas or guest blog writers!
 
 ### Publications
 Publications are one of our lab’s most important currency with the scientific community, and a key milestone for graduate students in the GLIER program (i.e., you need a publishable manuscript as a requirement of completion). You will work with Catherine to outline thesis chapters as publishable manuscripts, and these will be your guideposts throughout your program.  

@@ -1,9 +1,3 @@
 # Student Projects
 
-### Lauren Weller, MSc Candidate
-*start date - September 2019*  
-**Lauren - enter your info**
-
-### Roland Eveleens, MSc Candidate
-*start date - September 2019*  
-**Roland - enter your info here**
+A list of past and current students can be found on the [HHL website](https://www.healthyheadwaterslab.ca/team)

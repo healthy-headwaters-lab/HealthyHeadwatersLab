@@ -14,10 +14,10 @@ Everyone involved in field work should be adequately trained. It is ok to not kn
 
 ### Resources 
 #### Lab Activities Inventory 
-The Healthy Headwaters Activities Inventory (Shared HHL OneDrive/1.Healthy Headwaters Lab Activities INVENTORY.xlsx) tracks all types of activities the Healthy Headwaters Lab is conducting, across all projects. The activities inventory in managed by the research facilitator but can be added to by anyone. Activities from field activity plans will automatically be added to the inventory, but please let Jess I. know if you are participating in other activities (e.g., partner meetings, public outreach) and it will also be added.
+The Healthy Headwaters Activities Inventory (GLI - Healthy Headwaters Lab - General/Operations/Events/1.Healthy Headwaters Lab Activities INVENTORY.xlsx) tracks all types of activities the Healthy Headwaters Lab is conducting, across all projects. The activities inventory in managed by the research facilitator but can be added to by anyone. Activities from field activity plans will automatically be added to the inventory, but please let Jess I. know if you are participating in other activities (e.g., partner meetings, public outreach) and it will also be added.
 
 #### Field work checklist 
-A current field work checklist can be found in Dropbox (Shared HHL OneDrive/Forms/Field-gear-checklist.docx)
+A current field work checklist can be found in Dropbox (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-gear-checklist.docx)
 
 ### Transportation
 The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). Due to GLIER policies, only staff members are allowed to drive CJ. More info on using CJ [here](/Equipment/CJ.md)   
@@ -37,7 +37,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 * Real-time data for [rivers](https://wateroffice.ec.gc.ca/google_map/google_map_e.html?map_type=real_time&search_type=region&region=ONT) across Ontario is available from Environment Canada
 
 ### Before Leaving GLIER
-* Fill out a Field Activity Plan (Shared HHL OneDrive/Forms/Field-Activity-Plan.docx) and send it to Catherine, Alyssa, and Jess Ives.  The Field Activity Plan will be saved on OneDrive and serve as a partial record of our lab activities. The Field Activity Plan should be filled out *even if you are going on field work led by another organization*
+* Fill out a Field Activity Plan (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-Activity-Plan.docx) and send it to Catherine, Alyssa, and Jess Ives.  The Field Activity Plan will be saved on OneDrive and serve as a partial record of our lab activities. The Field Activity Plan should be filled out *even if you are going on field work led by another organization*
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
 
 ### When You Return
