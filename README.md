@@ -13,7 +13,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 * [Lab Manual](/HHL_Manual-For_my_HOMiES_2020.pdf)
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
-* Lab Structure
+* [Lab Structure](/Lab-structure/Lab-structure-overview.md)
   * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
@@ -31,8 +31,8 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Work/life management, mental health resources](/Other-resources/Mental-health.md)
 
 ### Contact information
-A Lab Member Directory can be found in OneDrive at "Shared HHL OneDrive/Lab-directory.docx"  
-(Emergency contacts for lab members are found in "Shared HHL OneDrive/Emergency-contact-information.docx")
+A Lab Member Directory can be found in OneDrive at "GLI - Healthy Headwaters Lab - General/Operations/Administration/Lab-directory.docx"  
+(Emergency contacts for lab members are found in "GLI - Healthy Headwaters Lab - General/Operations/Administration/Emergency-contact-information.docx")
 
 
 
