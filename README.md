@@ -24,6 +24,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
 * Other resources
+  * [Online learning and professional development](/Other-resources/Professional-development.md)
   * [R and Data Analysis](/Other-resources/R.md)
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
