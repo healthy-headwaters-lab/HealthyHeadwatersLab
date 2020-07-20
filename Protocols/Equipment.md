@@ -1,6 +1,6 @@
 # Equipment
 
-Below is a list of each of the pieces of equipment owned by the Healthy Headwaters Lab. Each piece of equipment has its own file detailing protocols of use.
+Below is a list of each of the pieces of equipment owned by the Healthy Headwaters Lab. Each piece of equipment has its own file detailing protocols of use. The sign-out portal for using certain equipment is through [SuperSaas](https://www.supersaas.com/).
 
   * #### [YSI](/Equipment/YSI.md)
   * #### [Turbidity Meter](/Equipment/Turbidity-meter.md)
