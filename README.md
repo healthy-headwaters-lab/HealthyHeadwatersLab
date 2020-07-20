@@ -12,7 +12,6 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 ### Contents
 * [Lab Manual](/HHL_Manual-For_my_HOMiES_2020.pdf)
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
-* [Lab Tools and Links](/Other-resources/Tools.md)
 * [Lab Structure](/Lab-structure/Lab-structure-overview.md)
   * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
