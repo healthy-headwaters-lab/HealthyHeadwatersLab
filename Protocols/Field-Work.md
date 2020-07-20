@@ -22,7 +22,7 @@ A current field work checklist can be found in Dropbox (GLI - Healthy Headwaters
 ### Transportation
 The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). Due to GLIER policies, only staff members are allowed to drive CJ. More info on using CJ [here](/Equipment/CJ.md)   
   
-When using CJ for meetings/field work/etc., please sign her out on the lab Google Calendar.
+When using CJ for meetings/field work/etc., please sign her out using SuperSaas (https://www.supersaas.com/)
 
 ### Weather & Water levels
 If your field work is weather or water-level dependant, there are multiple forecasts and live data sources available online that you can check before you do fieldwork.
@@ -39,6 +39,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 ### Before Leaving GLIER
 * Fill out a Field Activity Plan (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-Activity-Plan.docx) and send it to Catherine, Alyssa, and Jess Ives.  The Field Activity Plan will be saved on OneDrive and serve as a partial record of our lab activities. The Field Activity Plan should be filled out *even if you are going on field work led by another organization*
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
+* Make sure you have checked out all the equipment you are using on [SuperSaas](https://www.supersaas.com/)
 
 ### When You Return
 * *Check in with Catherine, Alyssa, and Jess Ives*
