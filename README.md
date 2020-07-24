@@ -36,7 +36,5 @@ A Lab Member Directory can be found in OneDrive at "GLI - Healthy Headwaters Lab
 (Emergency contacts for lab members are found in "GLI - Healthy Headwaters Lab - General/Operations/Administration/Emergency-contact-information.docx")
 
 
-# Test 
-
 
 
