@@ -12,6 +12,8 @@ For more information on accident reporting, see the University of Windsor [Healt
   
 Everyone involved in field work should be adequately trained. It is ok to not know something - and if you forget, just ask! It is always better to double check with others if you're unsure about protocols, rather than risk your safety or compromise data.
 
+### Decontamination
+
 ### Resources 
 #### Lab Activities Inventory 
 The Healthy Headwaters Activities Inventory (GLI - Healthy Headwaters Lab - General/Operations/Events/1.Healthy Headwaters Lab Activities INVENTORY.xlsx) tracks all types of activities the Healthy Headwaters Lab is conducting, across all projects. The activities inventory in managed by the research facilitator but can be added to by anyone. Activities from field activity plans will automatically be added to the inventory, but please let Jess I. know if you are participating in other activities (e.g., partner meetings, public outreach) and it will also be added.
@@ -58,3 +60,6 @@ If your field work is weather or water-level dependant, there are multiple forec
 
 ### Marking a GPS Waypoint
 [GPS Waypoint instructions](/Protocols/SOP-Mark-Waypoint.docx)
+
+### Soil Sampling Protocols
+*In development*
