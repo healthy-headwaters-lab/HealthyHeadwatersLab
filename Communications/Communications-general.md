@@ -3,11 +3,11 @@ As part of the Healthy Headwaters Lab, we communicate our work in a wide range o
 
 ### Ground Rules
 * Treat all communications using your UWindsor and Healthy Headwaters Lab accounts as professionally as possible.
-* In-person, Asana, and email communication is preferred over texting. Save texting for immediate updates (e.g., in the field, traveling between sites, running late for a meeting).
+* In-person, Asana, and email communication is preferred over texting. Save texting for immediate updates (e.g., in the field, traveling between sites, running late for a meeting). Teams chats can be useful to reach people or a group quickly, but shouldn't be used for important communications because chats are easily missed.
 * In case of doubt, cc: Catherine and/or the healthy.headwaters@uwindsor.ca email address
 * When working with the public or within a stakeholder group, feel free to give out either the healthy.headwaters@uwindsor.ca email address or Catherine’s office phone number. When doing so, let Catherine know so she has context for any inquiries that come in.
-* Be mindful of inclusive language including gender-free pronouns and your language. An elevator pitch/grandma approach to describing your science is good practice. Talking to farmers, community members, elders about your science requires practice and mindfulness about the levels and details of science being discussed. This will take practice and as a lab we will provide feedback.
-* You are encouraged to use the lab logos and templates, and acknowledge the various funding sources and partnerships. Logos are saved on the Dropbox for easy access. If you find or develop a new logo, please add to them as appropriate so that others can use the same logos.
+* Be mindful of inclusive language including gender-free pronouns and your language. An elevator pitch/grandparent approach to describing your science is good practice. Talking to farmers, community members, elders about your science requires practice and mindfulness about the levels and details of science being discussed. This will take practice and as a lab we will provide feedback.
+* You are encouraged to use the lab logos and templates, and acknowledge the various funding sources and partnerships. Logos are saved on the shared drive under Communications/Branding-Logos,Templates,Design Assets/Logos-HHL for easy access. If you find or develop a new logo, please add to them as appropriate so that others can use the same logos.
 
 
 ### Academic presentations
@@ -29,16 +29,17 @@ Some resources with tips for creating an effective poster:
 ### Public outreach
 Public outreach is an important part of working in this lab, and a key mechanism of our lab’s translation of research. We need to connect with people to gain public support, community buy-in, and the valuable local knowledge that is vital for building useful and needed work.
 
-As a member of the Healthy Headwaters lab, there may be various opportunities for public outreach, both planned (e.g., community presentations, information booths at local events) and unplanned (e.g., you may be approached by neighbours while you are doing field work). You should practice explaining your work in a way that engages rather than alienates people. Avoid jargon and technical terms. Practice speaking concisely and relating your work to outcomes that matter to the audience. 
+As a member of the Healthy Headwaters Lab, there may be various opportunities for public outreach, both planned (e.g., community presentations, information booths at local events) and unplanned (e.g., you may be approached by neighbours while you are doing field work). You should practice explaining your work in a way that engages rather than alienates people. Avoid jargon and technical terms. Practice speaking concisely and relating your work to outcomes that matter to the audience. 
 
 #### Social media
-Social media is a type of public outreach, and can be an effective one at that.  
+Social media is a type of public outreach, and can be an effective one at that. Shayenna oversees the Healthy Headwaters social media program, and content is tracked in the shared drive at General/Communications/Social Media. Within this folder there is a tracking file showing past and planned future social media and blog posts, as well as a template file. If you have been assigned a topic, use the template file to craft a blog post and concurrent social media posts. Note that a blog post isn't necessary/appropriate for all topics, but the same template should be filled out social media posts without blogs. Save the filled out template in a new folder with the anticipated date for posting along with any photos or media that should be included. Let Shayenna know when the post is ready to go.  
 
 * On social media, use the hashtag #HealthyHeadwatersLab for tagging people, topics, or content related to the lab's activities. 
 * Make sure content tagged aligns with the Healthy Headwaters Lab mission and follows all of the communications ground rules
+* See the social media tracking file for more guidelines on social media posting, including hashtags
 
 #### Healthy Headwaters Blog
-The Healthy Headwaters Blog ([Reflections](https://www.healthyheadwaterslab.ca/blog)) is maintained by Candy and Shayenna. If you have ideas for blog posts - contact Shayenna. They're always looking for ideas or guest blog writers!
+The Healthy Headwaters Blog ([News and Updates](https://www.healthyheadwaterslab.ca/hhl-news)) is maintained by Candy and Shayenna. Blog posts are tracked through the same shared file system as social media.
 
 ### Publications
 Publications are one of our lab’s most important currency with the scientific community, and a key milestone for graduate students in the GLIER program (i.e., you need a publishable manuscript as a requirement of completion). You will work with Catherine to outline thesis chapters as publishable manuscripts, and these will be your guideposts throughout your program.  
