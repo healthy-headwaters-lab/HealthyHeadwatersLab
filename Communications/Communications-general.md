@@ -31,15 +31,13 @@ Public outreach is an important part of working in this lab, and a key mechanism
 
 As a member of the Healthy Headwaters Lab, there may be various opportunities for public outreach, both planned (e.g., community presentations, information booths at local events) and unplanned (e.g., you may be approached by neighbours while you are doing field work). You should practice explaining your work in a way that engages rather than alienates people. Avoid jargon and technical terms. Practice speaking concisely and relating your work to outcomes that matter to the audience. 
 
-#### Social media
+#### Social media and blogs
 Social media is a type of public outreach, and can be an effective one at that. Shayenna oversees the Healthy Headwaters social media program, and content is tracked in the shared drive at General/Communications/Social Media. Within this folder there is a tracking file showing past and planned future social media and blog posts, as well as a template file. If you have been assigned a topic, use the template file to craft a blog post and concurrent social media posts. Note that a blog post isn't necessary/appropriate for all topics, but the same template should be filled out social media posts without blogs. Save the filled out template in a new folder with the anticipated date for posting along with any photos or media that should be included. Let Shayenna know when the post is ready to go.  
 
 * On social media, use the hashtag #HealthyHeadwatersLab for tagging people, topics, or content related to the lab's activities. 
 * Make sure content tagged aligns with the Healthy Headwaters Lab mission and follows all of the communications ground rules
 * See the social media tracking file for more guidelines on social media posting, including hashtags
-
-#### Healthy Headwaters Blog
-The Healthy Headwaters Blog ([News and Updates](https://www.healthyheadwaterslab.ca/hhl-news)) is maintained by Candy and Shayenna. Blog posts are tracked through the same shared file system as social media.
+* The Healthy Headwaters blog can be found at [News and Updates](https://www.healthyheadwaterslab.ca/hhl-news)
 
 ### Publications
 Publications are one of our lab’s most important currency with the scientific community, and a key milestone for graduate students in the GLIER program (i.e., you need a publishable manuscript as a requirement of completion). You will work with Catherine to outline thesis chapters as publishable manuscripts, and these will be your guideposts throughout your program.  
