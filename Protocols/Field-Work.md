@@ -13,16 +13,17 @@ For more information on accident reporting, see the University of Windsor [Healt
 Everyone involved in field work should be adequately trained. It is ok to not know something - and if you forget, just ask! It is always better to double check with others if you're unsure about protocols, rather than risk your safety or compromise data.
 
 ### Decontamination
+*need to insert info here - link to decontamination doc?*
 
 ### Resources 
 #### Lab Activities Inventory 
 The Healthy Headwaters Activities Inventory (GLI - Healthy Headwaters Lab - General/Operations/Events/1.Healthy Headwaters Lab Activities INVENTORY.xlsx) tracks all types of activities the Healthy Headwaters Lab is conducting, across all projects. The activities inventory in managed by the research facilitator but can be added to by anyone. Activities from field activity plans will automatically be added to the inventory, but please let Jess I. know if you are participating in other activities (e.g., partner meetings, public outreach) and it will also be added.
 
 #### Field work checklist 
-A current field work checklist can be found in Dropbox (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-gear-checklist.docx)
+A current field work checklist can be found in Sharepoint (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-gear-checklist.docx)
 
 ### Transportation
-The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). Due to GLIER policies, only staff members are allowed to drive CJ. More info on using CJ [here](/Equipment/CJ.md)   
+The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). Due to GLIER policies, only staff members are allowed to drive CJ (*is this still true??*). More info on using CJ [here](/Equipment/CJ.md)   
   
 When using CJ for meetings/field work/etc., please sign her out using SuperSaas (https://www.supersaas.com/)
 
