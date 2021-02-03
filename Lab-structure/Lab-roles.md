@@ -2,7 +2,7 @@
 This file details the roles of research staff within the Healthy Headwaters Lab. Contact information for research staff can be found in the Lab Directory (GLI - Healthy Headwater Lab - General/Operations/Administration/Lab-Directory.docx).
 
 All research staff:
-* Attend weekly lab meetings
+* Attend twice-monthly lab meetings
 * Conduct themselves as ambassadors for the Healthy Headwaters Lab, both within GLIER and when traveling for the lab
 * Assist other lab members with tasks when needed and available
 * Edit the Lab wiki as needed
@@ -33,11 +33,6 @@ Alyssa Frazao is the Stream Ecology & Biomonitoring Technician for Healthy Headw
 * Ensures the lab and field stores are stocked and functional
 * Trains new lab members in benthic macroinvertebrate field and lab work
 
-### Aquatic Science Field and Lab Technician  
-Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician. She is based in GLIER's central nutrient facility. She:
-* Analyses Healthy Headwater Lab water samples for C, P, and N
-* Trains new lab members in nutrient analysis
-
 ### Nindawaabjig Research Coordinator
 Katrina Keeshig is the Healthy Headwaters Lab Nindawaabjig Research Coordinator. She:
 * Assists in the development and coordination of our lab's research with Nindawaabjig (Walpole Island Heritage Centre) 
@@ -59,7 +54,7 @@ Shayenna Nolan is the Healthy Headwaters Lab Storyteller. She:
 * Manages the the [Healthy Headwaters Lab website](https://www.healthyheadwaterslab.ca/)
 
 ### Senior Agricultural Advisor (consultant)  
-Jim Boak is a consultant, acting as the Senior Agricultural Advisor for the Healthy Headwaters Lab. He:
+Henry Denotter is a consultant, acting as the Senior Agricultural Advisor for the Healthy Headwaters Lab. He:
 * Liaises between the lab and agricultural partners, including farmers and industry
 * Plays a key role in the development of the Farmer Advisory Board and Farmer Advisory Network
 * Organizes and advises on the development of agricultural-themed workshops and meetings
