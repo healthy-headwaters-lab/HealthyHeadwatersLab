@@ -18,6 +18,7 @@ Jess Ives is the Healthy Headwater Lab Research Facilitator. She:
 * Assists students with presentations and papers
 * Helps with onboarding new team members
 * Assists with field work
+### New Header
 
 ### Community and Translation Associate
 Candy Donaldson is the Community and Translation Associate for Healthy Headwaters Lab. She:
