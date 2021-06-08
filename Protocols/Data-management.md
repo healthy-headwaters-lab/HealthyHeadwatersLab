@@ -13,7 +13,7 @@ When working with the raw data, *copy it into a new file for your project*. This
 Data should be named using the following format: FILENAME_YYYMMDD. Generally the FILENAME will be concise and descriptive and refer to the project under which it falls (e.g., SedimentP_Essex_20190715).
 
 #### Meta-data
-Metadata for datasets should be stored in the GLI - Healhy Headwaters Lab - General/Data/Data metadata.xlsx file. Partner datasets and HHL-generated datasets are detailed in two different tabs.  
+Metadata for datasets should be stored in the GLI - Healthy Headwaters Lab - General/Data/Data metadata.xlsx file. Partner datasets and HHL-generated datasets are detailed in two different tabs.  
   
-When creating field sites, please enter them into the GLI - Healhy Headwaters Lab - General/Operations/Lab Manual and Protocols/Field Protocols/Field_Site_metadata.xlsx file (**being developed**) to ensure all site names are unique.
+When creating field sites, please enter them into the GLI - Healthy Headwaters Lab - General/Operations/Lab Manual and Protocols/Field Protocols/Field_Site_metadata.xlsx file (**being developed**) to ensure all site names are unique.
 
