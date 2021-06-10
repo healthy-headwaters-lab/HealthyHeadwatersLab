@@ -13,7 +13,7 @@ When working with the raw data, *copy it into a new file for your project*. This
 #### Naming conventions
 Data should be named using both a short file name and the date, such as: FILENAME_YYYMMDD. Generally the FILENAME will be concise and descriptive and refer to the project under which it falls (e.g., SedimentP_Essex_20190715). When there will be multiple files with similar data across different dates, use the same file name for easier organization.
 
-#### Meta-data
+### Meta-data
 Metadata for datasets should be stored in the GLI - Healthy Headwaters Lab - General/Data/Data metadata.xlsx file. This spreadsheet has multiple tabs:
 * **Partner Data** - This tab details datasets that are either publically available or have been provided to HHL by our partners. Please ensure you have permission from the partners when using the partner-shared datasets
 * **Raw data** - This tab details raw data that has been uploaded by HHL team members. Each file that is added should be listed as a row in this tab, with information on the date collected/run, the type of data, and the project(s) it is associate with.
@@ -22,6 +22,6 @@ Metadata for datasets should be stored in the GLI - Healthy Headwaters Lab - Gen
   
 **When creating field sites, please enter them into the GLI - Healthy Headwaters Lab - General/Operations/Lab Manual and Protocols/Field Protocols/Site naming & details/Site_information.xlsx file to ensure all site names are unique.**
 
-#### Data Management Timelines
+### Data Management Timelines
 **Raw data** should be uploaded *as soon as it is available*. **Working data** should be backed up periodically throughout the year to avoid any computer mishaps, and *at minimum once per year*. Final **HHL datasets** should be uploaded at the end of your project as part of your exit procedures, or earlier if appropriate. 
 
