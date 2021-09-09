@@ -13,7 +13,6 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 * [Lab Manual](/HHL_Manual-For_my_HOMiES_Sept2021.pdf)
 * [Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Lab Structure](/Lab-structure/Lab-structure-overview.md)
-  * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
   * [Field Work](/Protocols/Field-Work.md)
