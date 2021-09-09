@@ -10,10 +10,10 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 
 
 ### Contents
-* [Lab Manual](/HHL_Manual-For_my_HOMiES_2021.pdf)
+* [Lab Manual](/HHL_Manual-For_my_HOMiES_Sept2021.pdf)
 * [Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
+  * [Offboarding](/Other-resources/Offboarding.md) (when you leave the lab!)
 * [Lab Structure](/Lab-structure/Lab-structure-overview.md)
-  * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
   * [Field Work](/Protocols/Field-Work.md)
@@ -27,7 +27,6 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [R and Data Analysis](/Other-resources/R.md)
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
-  * [Offboarding](/Other-resources/Offboarding.md) (when you leave the lab!)
   * [Work/life management, mental health resources](/Other-resources/Mental-health.md)
   * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
 
