@@ -32,7 +32,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 
 #### Weather forecasts
 * [Windsor weather](https://weather.gc.ca/city/pages/on-94_metric_e.html)
-* [Chatham-Kent (closest to Bkegwanong)](https://weather.gc.ca/city/pages/on-11_metric_e.html)
+* [Chatham-Kent (closest to Bkejwanong)](https://weather.gc.ca/city/pages/on-11_metric_e.html)
 * Other [Ontario forecasts](https://weather.gc.ca/forecast/canada/index_e.html?id=ON)
 
 #### Water levels
@@ -42,7 +42,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 ### Before Leaving GLIER
 * Fill out a Field Activity Plan (GLI - Healthy Headwaters Lab - General/Operations/Field Work/Field-Activity-Plan.docx) and send it to Catherine, Alyssa, and Jess Ives.  The Field Activity Plan will be saved on OneDrive and serve as a partial record of our lab activities. The Field Activity Plan should be filled out *even if you are going on field work led by another organization*
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
-* Make sure you have checked out all the equipment you are using on [SuperSaas](https://www.supersaas.com/)
+* Make sure you have checked out all the equipment you are using on the shared sheet on Teams (ask Alyssa if unsure)
 
 ### When You Return
 * *Check in with Catherine, Alyssa, and Jess Ives*
