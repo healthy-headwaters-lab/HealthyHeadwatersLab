@@ -32,7 +32,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 
 #### Weather forecasts
 * [Windsor weather](https://weather.gc.ca/city/pages/on-94_metric_e.html)
-* [Chatham-Kent (closest to Bkegwanong)](https://weather.gc.ca/city/pages/on-11_metric_e.html]
+* [Chatham-Kent (closest to Bkegwanong)](https://weather.gc.ca/city/pages/on-11_metric_e.html)
 * Other [Ontario forecasts](https://weather.gc.ca/forecast/canada/index_e.html?id=ON)
 
 #### Water levels

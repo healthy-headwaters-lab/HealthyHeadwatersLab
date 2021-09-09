@@ -10,22 +10,21 @@ All research staff:
 ### Research Facilitator
 Jess Ives is the Healthy Headwater Lab Research Facilitator. She:
 * Seeks out and manages partnerships with research partners (e.g., farmers, NGOs, governmental organizations)
-* Acts as point person for Farmer Research Advisory Board activities
+* Acts as point person for Farmer Research Advisory Board activities and the larger Farm and Freshwater Ecology Research Network (FERN)
 * Assists with grant proposals and funding applications
 * Manages the Lab Wiki
-* Oversees data management and organization for all lab projects
+* Oversees data management and organization for lab projects
 * Helps Catherine (and other team members) write manuscripts
 * Assists students with presentations and papers
 * Helps with onboarding new team members
 * Assists with field work
-### New Header
 
 ### Community and Translation Associate
 Candy Donaldson is the Community and Translation Associate for Healthy Headwaters Lab. She:
 * Acts as community liaison, particularly with Bkejwanong First Nation
 * Manages the set-up and execution of community events
 * Helped develop and run the Traditional Ecological Knowledge field course
-* Oversees the Healthy Headwaters Lab Reflections blog
+* Assists with the Healthy Headwaters Lab Reflections blog
 * Assists with field work when necessary
 
 ### Stream Ecology & Biomonitoring Technician
@@ -34,19 +33,19 @@ Alyssa Frazao is the Stream Ecology & Biomonitoring Technician for Healthy Headw
 * Ensures the lab and field stores are stocked and functional
 * Trains new lab members in benthic macroinvertebrate field and lab work
 
-### Nindawaabjig Research Coordinator
-Katrina Keeshig is the Healthy Headwaters Lab Nindawaabjig Research Coordinator. She:
-* Assists in the development and coordination of our lab's research with Nindawaabjig (Walpole Island Heritage Centre) 
+### NinDawWabJig Research Coordinator
+Katrina Keeshig is the Healthy Headwaters Lab NinDaWaabJig Research Coordinator. She:
+* Assists in the development and coordination of our lab's research with NinDaWaabJig (Walpole Island Heritage Centre) 
 * Coordinates Canada Nature Fund field activities
 *	Conducts the budgeting and reporting of Nindawaabjig Canada Nature Fund activities
-*	Assists with Nin.Da.WaabJig grant proposals and funding applications
+*	Assists with NinDaWaabJig grant proposals and funding applications
 *	Assists with developing and carrying out lab activities (outreach, fieldwork, training)
 *	Strengthens the connection between Ojibway Nature Park, Bkejwanong (WIFN) and Healthy Headwaters Lab
 *	Seeks out opportunities to advance the goals of the Indigenous Allyship program 
 
-### Nindawaabjig Project Coordinator 
-Destiny Soney is the Healthy Headwaters Lab Nindawaabjig Project Coordinator. She:
-* Assists in the development and coordination of our lab's research with Nindawaabjig (Walpole Island Heritage Centre) and the Walpole Island Land Trust. 
+### NinDaWaabJig Project Coordinator 
+Destiny Soney is the Healthy Headwaters Lab NinDaWaabJig Project Coordinator. She:
+* Assists in the development and coordination of our lab's research with NinDaWaabJig (Walpole Island Heritage Centre) and the Walpole Island Land Trust. 
 
 ### Storyteller
 Shayenna Nolan is the Healthy Headwaters Lab Storyteller. She:
