@@ -10,7 +10,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 
 
 ### Contents
-* [Lab Manual](/HHL_Manual-For_my_HOMiES_Sept2021.pdf)
+* [Lab Manual](/Healthy Headwaters Lab Manual - For my HOMiES_V11 Sept2022.pdf)
 * [Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
   * [Offboarding](/Other-resources/Offboarding.md) (when you leave the lab!)
 * [Lab Structure](/Lab-structure/Lab-structure-overview.md)
